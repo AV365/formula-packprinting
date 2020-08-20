@@ -1,0 +1,16 @@
+.product-card__pic {
+    width: 180px;
+    height: 180px;
+    border-radius: 108px;
+    object-fit: cover;
+
+    margin: 0 auto;
+
+
+}
+
+.product-card__pic:hover {
+
+    animation: pulse; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: .6s;
+}

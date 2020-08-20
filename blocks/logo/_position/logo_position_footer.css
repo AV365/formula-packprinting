@@ -1,0 +1,26 @@
+.logo_position_footer {
+    width: 200px;
+    height: 90px;
+
+}
+
+@media screen and (max-width: 768px) {
+
+
+    .logo_position_footer {
+        width: 172px;
+        height: 77px;
+
+    }
+
+
+}
+
+@media screen  and (max-width: 630px) {
+
+    .logo_position_footer {
+        display: none;
+        width: 1px;
+        height: 1px;
+    }
+}

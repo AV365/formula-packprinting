@@ -1,0 +1,40 @@
+.logo_position_header {
+    width: 200px;
+    height: 90px;
+    margin: 59px 0 43px 0;
+}
+
+
+@media screen and (max-width: 1000px) {
+
+
+    .logo_position_header {
+
+        margin-right: 16px;
+    }
+
+
+}
+
+@media screen and (max-width: 768px) {
+
+
+    .logo_position_header {
+        width: 172px;
+        height: 77px;
+        margin: 39px 16px 39px 0;
+    }
+
+
+}
+
+@media screen and (max-width: 320px) {
+
+    .logo_position_header {
+        width: 100px;
+        height: 45px;
+        margin: 39px 0 39px 0;
+
+    }
+
+}

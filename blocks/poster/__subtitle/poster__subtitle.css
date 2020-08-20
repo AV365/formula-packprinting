@@ -1,0 +1,28 @@
+.poster__subtitle {
+
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 120%;
+    display: block;
+
+    margin-top: 15px;
+}
+
+
+@media screen and (max-width: 768px) {
+    .poster__subtitle {
+
+        font-size: 30px;
+        max-width: 100%;
+    }
+
+}
+
+@media screen and (max-width: 350px) {
+    .poster__subtitle {
+
+        font-size: 20px;
+    }
+
+}
+

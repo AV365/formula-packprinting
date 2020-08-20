@@ -1,0 +1,22 @@
+.order__note {
+
+    font-family: 'OpenSans', 'Helvetica Neue', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 150%;
+    padding: 0 16px;
+    margin: 20px auto;
+    max-width: 696px;
+
+    text-align: center;
+}
+
+
+@media screen and (max-width: 635px ) {
+    .order__note {
+
+        display: none;
+    }
+
+}

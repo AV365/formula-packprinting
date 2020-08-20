@@ -1,0 +1,22 @@
+.product-card__text {
+    font-family: 'OpenSans', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 16px;
+    line-height: 1.2;
+
+    text-align: center;
+
+    margin: 0 0 10px 0;
+    padding: 0;
+
+    max-width: 350px;
+
+}
+
+
+@media screen and (max-width: 930px) {
+
+    .product-card__text {
+
+        max-width: 250px;
+    }
+}

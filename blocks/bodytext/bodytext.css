@@ -1,0 +1,44 @@
+.bodytext {
+    width: 80%;
+    max-width: 950px;
+    margin: 0 auto 30px auto;
+    font-family: 'OpenSans', 'Helvetica Neue', 'Arial', sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 1.5;
+
+
+}
+
+.bodytext :link {
+
+    color: var(--color-content4);
+
+}
+
+.bodytext :visited {
+
+    color: var(--color-content4);
+
+}
+
+.bodytext :active {
+    color: var(--color-content4);
+}
+
+.bodytext :hover {
+    text-decoration: none;
+    opacity: .8;
+
+
+}
+
+@media screen and (max-width: 630px) {
+
+    .bodytext {
+
+        font-size: 16px;
+    }
+
+
+}

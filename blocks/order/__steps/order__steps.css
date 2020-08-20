@@ -1,0 +1,42 @@
+.order__steps {
+    align-self: center;
+
+    padding: 0 24px 0 24px;
+    box-sizing: border-box;
+    font-size: 0;
+    margin: 30px auto 50px auto;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: start;
+    max-width: 938px;
+    width: 100%;
+    position: relative;
+
+
+}
+
+
+.order__steps::before {
+    display: block;
+    position: absolute;
+    content: "1242343";
+    height: 4px;
+    width: 83%;
+
+    top: 20px;
+    left: 50%;
+    background-color: var(--color-content2);
+    transform: translate(-50%, -50%);
+    z-index: -1;
+}
+
+
+@media screen and (max-width: 635px ) {
+    .order__steps {
+
+        display: none;
+    }
+
+}

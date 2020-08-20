@@ -1,0 +1,30 @@
+.card__title {
+
+    font-family: 'Montserrat', 'Helvetica Neue', 'Arial', sans-serif;
+    font-weight: 800;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: 2.4px;
+    text-transform: uppercase;
+
+    padding: 16px 36px 16px 36px;
+    border: 3px solid var(--color-content2);
+}
+
+
+@media screen and (max-width: 1024px) {
+    .card__title {
+
+        padding: 16px 26px 16px 26px;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    .card__title {
+
+        padding: 16px 10px 16px 10px;
+    }
+
+}

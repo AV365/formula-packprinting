@@ -1,0 +1,62 @@
+.menu__item {
+    font-family: 'Montserrat', 'Helvetica Neue', 'Arial', sans-serif;
+    font-weight: 800;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 2.4px;
+
+    text-transform: uppercase;
+    display: inline-block;
+    color: var(--color-content1);
+    margin: 0 32px 0 0;
+    padding: 0 0 10px 0;
+
+}
+
+.menu__item:last-of-type {
+    margin-right: 0;
+
+}
+
+.menu__item :link {
+    text-decoration: none;
+    color: var(--color-content1);
+}
+
+.menu__item :visited {
+
+    text-decoration: none;
+    color: var(--color-content1);
+}
+
+.menu__item :active {
+
+}
+
+.menu__item :hover {
+    transition: opacity .2s linear;
+    opacity: .9;
+
+}
+
+
+@media screen and (max-width: 768px) {
+
+    .menu__item {
+        margin: 0 24px 0 0;
+    }
+
+}
+
+
+@media screen and (max-width: 630px) {
+
+    .menu__item {
+        margin: 0;
+
+        display: block;
+        font-size: 14px;
+        line-height: 200%;
+    }
+
+}

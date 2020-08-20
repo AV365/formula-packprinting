@@ -1,0 +1,28 @@
+.footer__text_tel {
+
+    font-weight: 600;
+}
+
+.footer__text_tel:link {
+
+    text-decoration: none;
+    color: var(--color-content1);
+
+}
+
+.footer__text_tel:visited {
+
+    text-decoration: none;
+    color: var(--color-content1);
+
+}
+
+.footer__text_tel:hover {
+
+    color: var(--color-content2);
+    transition: color .1s linear;
+
+
+}
+
+

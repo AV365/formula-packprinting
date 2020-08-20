@@ -1,0 +1,34 @@
+.footer_text {
+
+    font-family: 'OpenSans', 'Helvetica Neue', 'Arial', sans-serif;
+    font-style: normal;
+
+    font-size: 12px;
+    line-height: 150%;
+}
+
+
+.footer_text :link {
+
+    color: var(--color-content4);
+}
+
+.footer_text :visited {
+
+    color: var(--color-content4);
+}
+
+.footer_text :hover {
+
+    text-decoration: none;
+}
+
+
+@media screen and (max-width: 630px) {
+
+    .footer_text {
+
+        text-align: center;
+    }
+
+}

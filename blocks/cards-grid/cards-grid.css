@@ -1,0 +1,43 @@
+.cards-grid {
+
+    /*display: grid;*/
+    /*grid-template-columns: repeat(3, 1fr);*/
+    /*gap:16px;*/
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: start;
+    margin: 0 auto;
+
+
+    padding: 0 24px;
+    list-style: none;
+
+    max-width: 1176px;
+    flex-wrap: wrap;
+
+
+}
+
+@media screen and (max-width: 1000px) {
+
+    .cards-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 24px;
+
+    }
+
+}
+
+
+@media screen and (max-width: 680px) {
+
+    .cards-grid {
+        display: block;
+
+
+    }
+
+}

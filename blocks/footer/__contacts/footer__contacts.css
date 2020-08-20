@@ -1,0 +1,21 @@
+.footer__contacts {
+
+    max-width: 224px;
+    padding: 0 24px;
+
+    min-height: 161px;
+    position: relative;
+    min-width: 224px;
+}
+
+
+@media screen and (max-width: 630px) {
+
+    .footer__contacts {
+
+        max-width: 100%;
+        width: 70%;
+        margin: 0 auto;
+    }
+
+}

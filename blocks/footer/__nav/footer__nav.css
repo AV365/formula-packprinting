@@ -1,0 +1,22 @@
+.footer__nav {
+
+    max-width: 576px;
+    min-height: 161px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+@media screen and (max-width: 630px) {
+
+    .footer__nav {
+        max-width: 100%;
+        border-top: 4px solid var(--color-content2);
+        width: 100%;
+
+        margin: 30px auto;
+    }
+
+}

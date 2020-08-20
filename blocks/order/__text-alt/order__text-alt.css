@@ -1,0 +1,24 @@
+.order__text-alt {
+
+    font-family: 'OpenSans', 'Helvetica Neue', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 120%;
+    padding: 0;
+    margin: 20px;
+    max-width: 635px;
+
+    text-align: center;
+
+    display: none;
+}
+
+@media screen and (max-width: 635px) {
+
+
+    .order__text-alt {
+        display: inline-block;
+
+    }
+}

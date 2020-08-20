@@ -1,0 +1,20 @@
+.footer__social-link {
+
+    display: inline;
+
+    margin-right: 64px;
+    opacity: .6;
+
+}
+
+
+.footer__social-link:last-of-type {
+
+    margin-right: 0;
+}
+
+
+.footer__social-link:hover {
+    transition: opacity .3s linear;
+    opacity: .9;
+}

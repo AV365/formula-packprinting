@@ -1,0 +1,10 @@
+.portfolio {
+    margin: 0 auto 32px auto;
+
+    display: flex;
+    width: 100%;
+    max-width: 938px;
+
+}
+
+

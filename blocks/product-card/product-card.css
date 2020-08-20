@@ -1,0 +1,22 @@
+.product-card {
+    padding: 16px;
+
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+
+    margin: 0 auto 36px auto;
+
+
+}
+
+
+@media screen and (max-width: 930px) {
+
+    .product-card {
+        padding: 0 60px
+    }
+
+}
+
+

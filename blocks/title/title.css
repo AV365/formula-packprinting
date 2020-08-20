@@ -1,0 +1,57 @@
+.title {
+    font-family: 'Montserrat', 'Helvetica Neue', 'Arial', sans-serif;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 120%;
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+    margin: 0 auto;
+    padding: 79px 0 8px 0;
+}
+
+.title::before {
+    display: block;
+    position: absolute;
+    content: "";
+    height: 4px;
+    width: 180px;
+    background: var(--color-content2);
+    top: 125px;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+
+}
+
+@media screen and (max-width: 460px) {
+
+    .title {
+        font-size: 28px;
+        padding: 50px 0 30px 0;
+
+    }
+
+    .title::before {
+
+        top: 90px;
+
+    }
+
+}
+
+
+@media screen and (max-width: 350px) {
+
+    .title {
+        font-size: 20px;
+        padding: 30px 0 30px 0;
+    }
+
+    .title::before {
+
+        top: 60px;
+
+    }
+
+}

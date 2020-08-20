@@ -1,0 +1,49 @@
+.order__step-num {
+
+    font-family: 'Montserrat', 'Helvetica Neue', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 12px;
+    line-height: 20px;
+    margin: 0 auto;
+    padding: 10px 10px;
+    color: var(--color-content5);
+
+    background-color: var(--color-content2);
+    background-position: center center;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+
+}
+
+
+.order__step-num:link {
+
+    text-decoration: none;
+    color: var(--color-content5);
+
+}
+
+.order__step-num:visited {
+
+    text-decoration: none;
+    color: var(--color-content5);
+
+}
+
+.order__step-num:active {
+
+    text-decoration: none;
+    color: var(--color-content5);
+
+}
+
+.order__step-num:hover {
+
+    background-color: var(--color-content4);
+    animation: pulse; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: .2s;
+
+}

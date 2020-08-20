@@ -1,0 +1,17 @@
+.bg_elements_position_products {
+    background-image: url("../../../images/bg_elements_products.png");
+    background-repeat: repeat-x;
+    background-position: top 85px left 0;
+
+}
+
+@media screen and (max-width: 930px) {
+
+    .bg_elements_position_products {
+
+        background-image: none;
+
+
+    }
+
+}

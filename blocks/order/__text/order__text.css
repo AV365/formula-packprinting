@@ -1,0 +1,45 @@
+.order__text {
+
+
+    max-width: 550px;
+    margin: 70px auto 30px auto;
+    font-family: 'OpenSans', 'Helvetica Neue', 'Arial', sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+
+.order__text :link {
+
+    color: var(--color-content4);
+
+}
+
+.order__text :visited {
+    color: var(--color-content4);
+}
+
+.order__text :active {
+
+}
+
+.order__text :hover {
+
+    opacity: .8;
+    text-decoration: none;
+
+
+}
+
+
+@media screen and (max-width: 630px) {
+
+    .order__text {
+
+        font-size: 16px;
+    }
+
+
+}

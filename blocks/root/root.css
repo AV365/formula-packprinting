@@ -1,0 +1,28 @@
+
+.root {
+
+    padding: 0;
+
+    /*font-family: 'Montserrat', 'Helvetica Neue', 'Arial', sans-serif;*/
+    font-family: 'OpenSans', 'Helvetica Neue', 'Arial', sans-serif;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+
+    --color-content1: #212121; /*черный*/
+    --color-content2: #FFC80A; /*оранжевый*/
+    --color-content3: #9FA3A7; /*серый*/
+    --color-content4: #F58220; /*желтый*/
+    --color-content5: #fff; /*белый*/
+
+
+    max-width: 100%;
+    min-width: 300px;
+    margin: 0 auto;
+}
+

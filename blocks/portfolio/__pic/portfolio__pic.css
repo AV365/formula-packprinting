@@ -1,0 +1,17 @@
+.portfolio__pic {
+    margin: 0 auto;
+    border-radius: 30px;
+    text-align: center;
+
+    width: 100%;
+}
+
+
+@media screen and (max-width: 950px) {
+    .portfolio__pic {
+        border-radius: 0;
+
+    }
+
+
+}

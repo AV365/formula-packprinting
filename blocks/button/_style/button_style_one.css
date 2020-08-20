@@ -1,0 +1,22 @@
+.button_style_one {
+    background-color: var(--color-content2);
+    color: var(--color-content1);
+}
+
+.button_style_one:link {
+
+    text-decoration: none;
+}
+
+.button_style_one:visited {
+
+    text-decoration: none;
+}
+
+.button_style_one:hover {
+
+    background-color: var(--color-content5);
+
+}
+
+

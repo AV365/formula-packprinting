@@ -1,0 +1,28 @@
+.banner__title {
+
+    font-family: 'Montserrat', 'Helvetica Neue', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 1.2;
+
+
+    color: var(--color-content5);
+    padding: 16px;
+    margin: 0 auto 34px auto;
+
+    border: 1px solid var(--color-content5);
+    display: inline-block;
+
+
+    opacity: .9;
+}
+
+
+@media screen and (max-width: 790px) {
+    .banner__title {
+
+        font-size: 24px;
+    }
+
+}

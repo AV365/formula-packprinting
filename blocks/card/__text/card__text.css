@@ -1,0 +1,8 @@
+.card__text {
+    margin: 0 auto;
+    font-family: 'OpenSans', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    max-width: 70%;
+}

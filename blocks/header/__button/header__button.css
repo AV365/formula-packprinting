@@ -1,0 +1,25 @@
+.header__button {
+
+
+}
+
+
+.header__button:link {
+
+    text-decoration: none;
+
+}
+
+.header__button:visited {
+
+    text-decoration: none;
+
+}
+
+
+@media screen and (max-width: 768px) {
+    .header__button {
+
+        display: none;
+    }
+}

@@ -1,0 +1,19 @@
+.poster__caption {
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--color-content5);
+    opacity: .8;
+    max-width: 350px;
+
+    margin: 37px 0 37px;
+}
+
+
+@media screen and (max-width: 320px) {
+    .poster__caption {
+
+        font-size: 11px;
+        margin: 16px 0 16px;
+    }
+
+}
