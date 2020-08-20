@@ -2,125 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56c41f8c-caed-4d52-b40e-ad728eb7235a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Formula PackPrinting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/banner/__text/banner__text.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/banner/__title/banner__title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/banner/_theme/banner_theme_silkprint.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/banner/_theme/banner_theme_tampoprint.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/banner/banner.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/bg-elements/_position/bg-elements_position_poster.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/bg-elements/_position/bg-elements_position_products.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/bg-elements/bg-elements.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/bodytext/_align/bodytext_align_center.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/bodytext/bodytext.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/button/_align/button_align_center.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/button/_style/button_style_one.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/button/_style/button_style_two.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/button/button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/card/__text/card__text.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/card/__title/card__title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/card/card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/cards-grid/cards-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__contacts/footer__contacts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__nav/footer__nav.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__social-icon/footer__social_icon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__social-link/footer__social-link.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__social/footer__social.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__text-select/footer__text_select.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__text/footer_text.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__text_tel/footer__text_tel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__title/footer__title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__button/header__button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/logo/_position/logo_position_footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/logo/_position/logo_position_header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/logo/logo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/logotype-fx/__pic/logotype-fx__pic.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/logotype-fx/logotype-fx.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/menu/__item/menu__item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/menu/_position/menu_position_footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/menu/_position/menu_position_header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/menu/menu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/methods/methods.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/order/__note/order__note.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/order/__step-name/order__step-name.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/order/__step-num/order__step-num.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/order/__step/order__step.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/order/__steps/order__steps.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/order/__text-alt/order__text-alt.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/order/__text/order__text.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/order/order.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/portfolio/__pic/portfolio__pic.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/portfolio/portfolio.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/poster/__button/poster__button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/poster/__caption/poster__caption.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/poster/__subtitle/poster__subtitle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/poster/__title/poster__title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/poster/poster.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/product-card/__link/product-card__link.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/product-card/__name/product-card__name.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/product-card/__pic/product-card__pic.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/product-card/__price/product-card__price.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/product-card/__select/product-card__select.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/product-card/__text/product-card__text.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/product-card/product-card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/products/products.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/root/root.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/title/_margin/title_margin_bottom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/title/title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Formula_favicon-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Formula_favicon-300x300.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bg_elements_poster.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bg_elements_products.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/formula_logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/icon-facebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/icon-instagram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/icon-vk.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/order-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic-bag.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic-cap1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic-logo-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic-logo-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic-logo-3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic-new.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic-pack1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/formula-portfolio-pic1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/formula-portfolio-pic10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/formula-portfolio-pic11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/formula-portfolio-pic12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/formula-portfolio-pic2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/formula-portfolio-pic3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/formula-portfolio-pic4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/formula-portfolio-pic5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/formula-portfolio-pic6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/formula-portfolio-pic7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/formula-portfolio-pic8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/formula-portfolio-pic9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/poster_pic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/silkprinting-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tampoprint-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/fonts/Montserrat-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/fonts/Montserrat-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/fonts/Montserrat-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/fonts/OpenSans-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/fonts/OpenSans-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/hover/hover.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/montserrat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/open-sans.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/slidr/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/slidr/slidr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/slidr/slidr.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -201,8 +84,16 @@
       <workItem from="1597644937466" duration="25632000" />
       <workItem from="1597728939726" duration="15816000" />
       <workItem from="1597814189698" duration="9489000" />
-      <workItem from="1597899083407" duration="12165000" />
+      <workItem from="1597899083407" duration="12998000" />
     </task>
+    <task id="LOCAL-00001" summary="1.1">
+      <created>1597916585823</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597916585823</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,5 +111,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.1" />
   </component>
 </project>
